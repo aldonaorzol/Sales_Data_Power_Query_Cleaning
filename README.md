@@ -38,6 +38,12 @@ The data type in the 'amount_zl' column was changed to 'Currency'.
 
 <img width="160" height="542" alt="image" src="https://github.com/user-attachments/assets/5f3e0764-4727-4679-beec-c851e0bf16a3" />
 
-Analysis:
+3. This table shows that the data contains no duplicate orders, errors, or NULL values.
+
+<img width="829" height="162" alt="image" src="https://github.com/user-attachments/assets/e84cc731-c60d-41b0-9d5f-6d5f3525680b" />
+
+ Close & Apply
+
+Power BI
 
 <img width="1436" height="805" alt="image" src="https://github.com/user-attachments/assets/2af98662-00ff-47a0-a630-b495c4bacf4d" />
