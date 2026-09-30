@@ -21,10 +21,10 @@ Power Query:
 New Source -> File -> Text/CSV
 
 Before
-<img width="835" height="818" alt="image" src="https://github.com/user-attachments/assets/e2e8f193-b7d3-4dea-b66c-c5201988db9a" />
+<img width="834" height="590" alt="image" src="https://github.com/user-attachments/assets/49f62102-aadb-432d-b026-065538b3eba8" />
 
 After
-<img width="779" height="444" alt="image" src="https://github.com/user-attachments/assets/8f857293-a112-4471-b734-621933889b5e" />
+<img width="830" height="582" alt="image" src="https://github.com/user-attachments/assets/7aa5dfe6-c5ce-44a6-a045-e68b0bf23760" />
 
 2. 
 
