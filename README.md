@@ -11,4 +11,5 @@ Table:
 
 Data cleaning:
 
-<img width="1438" height="794" alt="image" src="https://github.com/user-attachments/assets/ea7582a6-6951-4dc9-80a3-4b0a222ede4e" />
+<img width="1436" height="805" alt="image" src="https://github.com/user-attachments/assets/2af98662-00ff-47a0-a630-b495c4bacf4d" />
+
