@@ -50,4 +50,6 @@ The data type in the 'amount_zl' column was changed to 'Currency'.
 
 Power BI:
 
+<img width="1438" height="803" alt="image" src="https://github.com/user-attachments/assets/2eabca82-1e7d-4158-86df-dffcd7a9b988" />
+
 
