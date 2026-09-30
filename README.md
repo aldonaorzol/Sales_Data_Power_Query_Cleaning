@@ -1,4 +1,4 @@
-# Sales_Data_Power_Query_Power_BI
+# Sales_Data_Power_Query_Cleaning
 
 Sales analysis to identify trends, the most popular product categories, and the most effective sales channels, as well as an assessment of their impact on generated revenue.
 
