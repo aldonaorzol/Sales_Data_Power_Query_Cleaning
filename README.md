@@ -20,13 +20,15 @@ Power Query:
 1. Uploading a CSV file so that Polish characters are read correctly, e.g. OdzieĹĽ, ogrĂłd
 New Source -> File -> Text/CSV
 
-Before
+Before:
 
 <img width="834" height="590" alt="image" src="https://github.com/user-attachments/assets/49f62102-aadb-432d-b026-065538b3eba8" />
 
-After
+After:
 
 <img width="830" height="582" alt="image" src="https://github.com/user-attachments/assets/7aa5dfe6-c5ce-44a6-a045-e68b0bf23760" />
+
+
 
 2. Normalization of numeric value formats:
 
