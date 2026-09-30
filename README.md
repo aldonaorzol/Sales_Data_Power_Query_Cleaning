@@ -31,9 +31,10 @@ After
 2. Normalization of numeric value formats:
 
 Transform -> Replace Values -> from a dot to a comma
-The data type in the 'amount_zl' column was changed to 'Currency'.
-<img width="160" height="542" alt="image" src="https://github.com/user-attachments/assets/5f3e0764-4727-4679-beec-c851e0bf16a3" />
 
+The data type in the 'amount_zl' column was changed to 'Currency'.
+
+<img width="160" height="542" alt="image" src="https://github.com/user-attachments/assets/5f3e0764-4727-4679-beec-c851e0bf16a3" />
 
 Analysis:
 
