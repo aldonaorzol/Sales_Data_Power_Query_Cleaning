@@ -1,13 +1,11 @@
 # Sales_Data_Power_Query_Cleaning
 
-Sales analysis to identify trends, the most popular product categories, and the most effective sales channels, as well as an assessment of their impact on generated revenue.
-
 Table:
 - order_ID,
 - date,
 - category,
-- sales_channel
-- amount_zl
+- sales_channel,
+- amount_zl,
 
 Data cleaning:
 
