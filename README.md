@@ -1,20 +1,20 @@
-# Sales_Data_Power_Query_Cleaning
+<h1 align="center">Sales_Data_Power_Query_Cleaning</h1>
 
-Table:
+### Table:
 - order_ID,
 - date,
 - category,
 - sales_channel,
 - amount_zl,
 
-Data cleaning:
+<h2 align="center">Data cleaning:</h2>
 
-Excel:
+### Excel:
 1. Parsing Delimited Data -> Data -> Text to columns -> Comma
 2. ctrl+t ->Create table
 3. Importing data into Power Query -> Get Data from Table/Range
 
-Power Query:
+### Power Query:
 1. Uploading a CSV file so that Polish characters are read correctly, e.g. OdzieĹĽ, ogrĂłd
 New Source -> File -> Text/CSV
 
